@@ -9,7 +9,7 @@
 
 
 > [**Phantom: Subject-Consistent Video Generation via Cross-Modal Alignment**](https://arxiv.org/abs/2502.xxxxx)<br>
-> [Lijie Liu](https://liulj13.github.io/), [Tianxiang Ma](https://tianxiangma.github.io/), [Bingchuan Li](https://scholar.google.com/citations?user=ac5Se6QAAAAJ), [Zhuowei Chen](https://scholar.google.com/citations?user=ow1jGJkAAAAJ), [Jiawei Liu](https://scholar.google.com/citations?user=X21Fz-EAAAAJ), Qian He, Hongxiang Hao
+> [Lijie Liu](https://liulj13.github.io/), [Tianxiang Ma](https://tianxiangma.github.io/), [Bingchuan Li](https://scholar.google.com/citations?user=ac5Se6QAAAAJ), [Zhuowei Chen](https://scholar.google.com/citations?user=ow1jGJkAAAAJ), [Jiawei Liu](https://scholar.google.com/citations?user=X21Fz-EAAAAJ), [Qian He](https://scholar.google.com/citations?user=9rWWCgUAAAAJ), Xinglong Wu
 > <br>Intelligent Creation Team, ByteDance<br>
 
 
