@@ -19,7 +19,7 @@
 @article{liu2025phantom,
   title={Phantom: Subject-Consistent Video Generation via Cross-Modal Alignment},
   author={Liu, Lijie and Ma, Tianxaing and Li, Bingchuan and Chen, Zhuowei and Liu, Jiawei and He, Qian and Wu, Xinglong},
-  journal={arXiv preprint arXiv:2502.xxxxx},
+  journal={arXiv preprint arXiv:2502.11079},
   year={2025}
 }
 ```
