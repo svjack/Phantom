@@ -18,11 +18,11 @@ Phantom is a unified video generation framework for single and multi-subject ref
 
 ## Comparative Results 🆚
 - **Identity Preserving Video Generation**.
-![image](https://github.com/Phantom-video/Phantom/tree/page/assets/images/id_eval.png)
+![image](./assets/images/id_eval.png)
 - **Single Reference Subject-to-Video Generation**.
-![image](https://github.com/Phantom-video/Phantom/tree/page/assets/images/ip_eval_s.png)
+![image](./assets/images/ip_eval_s.png)
 - **Multi-Reference Subject-to-Video Generation**.
-![image](https://github.com/Phantom-video/Phantom/tree/page/assets/images/ip_eval_m_00.png)
+![image](./assets/images/ip_eval_m_00.png)
 
 ## BibTeX
 ```bibtex
