@@ -25,7 +25,7 @@ Phantom is a unified video generation framework for single and multi-subject ref
 ![image](./assets/images/ip_eval_m_00.png)
 
 ## Acknowledgements
-We would like to express our gratitude to the SEED team for their support. Special thanks to Haoyuan Guo, Zhibei Ma, and Sen Wang for their assistance with the model and data. In addition, we are also very grateful to Siying Chen, Qingyang Li, and Wei Han for their help with the evaluation.
+We would like to express our gratitude to the SEED team for their support. Special thanks to Lu Jiang, Haoyuan Guo, Zhibei Ma, and Sen Wang for their assistance with the model and data. In addition, we are also very grateful to Siying Chen, Qingyang Li, and Wei Han for their help with the evaluation.
 
 ## BibTeX
 ```bibtex
