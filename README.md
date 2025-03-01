@@ -14,7 +14,7 @@
 > <br>Intelligent Creation Team, ByteDance<br>
 
 ## 🔥 Latest News!
-Phantom-wan is coming soon! We are adapting the Phantom framework into the [Wan2.1](https://github.com/Wan-Video/Wan2.1) video generation model.
+Phantom-wan is coming soon! We are adapting the Phantom framework into the [Wan2.1](https://github.com/Wan-Video/Wan2.1) video generation model. The inference code and model will be open-sourced.
 
 ## Overview
 Phantom is a unified video generation framework for single and multi-subject references, built on existing text-to-video and image-to-video architectures. It achieves cross-modal alignment using text-image-video triplet data by redesigning the joint text-image injection model. Additionally, it emphasizes subject consistency in human generation while enhancing ID-preserving video generation.
