@@ -1,6 +1,5 @@
 .*
 *.py[cod]
-*.jpeg
 *.bmp
 *.log
 *.zip
@@ -23,6 +22,7 @@ samples/
 !requirements.txt
 .DS_Store
 *DS_Store
+assets/.DS_Store
 google/
 Wan2.1-T2V-14B/
 Wan2.1-T2V-1.3B/
