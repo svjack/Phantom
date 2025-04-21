@@ -77,16 +77,72 @@ torchrun --nproc_per_node=8 generate.py --task s2v-1.3B --size 832*480 --ckpt_di
 
 For inferencing examples, please refer to "infer.sh". You will get the following generated results:
 
-<table>
+<table style="width: 100%; border-collapse: collapse; text-align: center; border: 1px solid #ccc;">
   <tr>
-    <td><img src="examples/ref_results/result1.gif" alt="GIF 1" width="400"></td>
-    <td><img src="examples/ref_results/result2.gif" alt="GIF 2" width="400"></td>
+    <!-- 参考图像标题 -->
+    <td style="padding: 10px; border: 1px solid #ccc;">
+      <strong>Reference Images</strong>
+    </td>
+    <!-- 生成结果标题 -->
+    <td style="padding: 10px; border: 1px solid #ccc;">
+      <strong>Generated Videos</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- 参考图像 -->
+    <td style="padding: 10px; border: 1px solid #ccc;">
+      <img src="examples/ref1.png" alt="Image 1" style="width: 128px;">
+      <img src="examples/ref2.png" alt="Image 2" style="width: 100px;">
+    </td>
+    <!-- 生成结果 -->
+    <td style="padding: 10px; border: 1px solid #ccc;">
+      <img src="examples/ref_results/result1.gif" alt="GIF 1" style="width: 400px;">
+    </td>
+  </tr>
+
+  <tr>
+    <!-- 参考图像 -->
+    <td style="padding: 10px; border: 1px solid #ccc;">
+      <img src="examples/ref3.png" alt="Image 3" style="width: 80px;">
+      <img src="examples/ref4.png" alt="Image 4" style="width: 115px;">
+    </td>
+    <!-- 生成结果 -->
+    <td style="padding: 10px; border: 1px solid #ccc;">
+      <img src="examples/ref_results/result2.gif" alt="GIF 2" style="width: 400px;">
+    </td>
+  </tr>
+
   </tr>
   <tr>
-    <td><img src="examples/ref_results/result3.gif" alt="GIF 3" width="400"></td>
-    <td><img src="examples/ref_results/result4.gif" alt="GIF 4" width="400"></td>
+    <!-- 参考图像 -->
+    <td style="padding: 10px; border: 1px solid #ccc;">
+      <img src="examples/ref5.png" alt="Image 5" style="width: 80px;">
+      <img src="examples/ref6.png" alt="Image 6" style="width: 70px;">
+      <img src="examples/ref7.png" alt="Image 7" style="width: 61px;">
+    </td>
+    <!-- 生成结果 -->
+    <td style="padding: 10px; border: 1px solid #ccc;">
+      <img src="examples/ref_results/result3.gif" alt="GIF 3" style="width: 400px;">
+    </td>
+  </tr>
+
+  <tr>
+    <!-- 参考图像 -->
+    <td style="padding: 10px; border: 1px solid #ccc;">
+      <img src="examples/ref8.png" alt="Image 8" style="width: 100px;">
+      <img src="examples/ref9.png" alt="Image 9" style="width: 69px;">
+      <img src="examples/ref10.png" alt="Image 10" style="width: 85px;">
+      <img src="examples/ref11.png" alt="Image 11" style="width: 85px;">
+    </td>
+    <!-- 生成结果 -->
+    <td style="padding: 10px; border: 1px solid #ccc;">
+      <img src="examples/ref_results/result4.gif" alt="GIF 4" style="width: 400px;">
+    </td>
   </tr>
 </table>
+
+
 
 ## 🆚 Comparative Results
 - **Identity Preserving Video Generation**.
