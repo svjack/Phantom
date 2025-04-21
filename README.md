@@ -79,35 +79,29 @@ For inferencing examples, please refer to "infer.sh". You will get the following
 
 <table style="width: 100%; border-collapse: collapse; text-align: center; border: 1px solid #ccc;">
   <tr>
-    <!-- 参考图像标题 -->
     <th style="text-align: center;">
       <strong>Reference Images</strong>
     </th>
-    <!-- 生成结果标题 -->
     <th style="text-align: center;">
       <strong>Generated Videos</strong>
     </th>
   </tr>
 
   <tr>
-    <!-- 参考图像 -->
     <td style="text-align: center; vertical-align: middle;">
-      <img src="examples/ref1.png" alt="Image 1" style="height: 150px;">
-      <img src="examples/ref2.png" alt="Image 2" style="height: 150px;">
+      <img src="examples/ref1.png" alt="Image 1" style="height: 180px;">
+      <img src="examples/ref2.png" alt="Image 2" style="height: 180px;">
     </td>
-    <!-- 生成结果 -->
     <td style="text-align: center; vertical-align: middle;">
       <img src="examples/ref_results/result1.gif" alt="GIF 1" style="width: 400px;">
     </td>
   </tr>
 
   <tr>
-    <!-- 参考图像 -->
     <td style="text-align: center; vertical-align: middle;">
-      <img src="examples/ref3.png" alt="Image 3" style="height: 150px;">
-      <img src="examples/ref4.png" alt="Image 4" style="height: 150px;">
+      <img src="examples/ref3.png" alt="Image 3" style="height: 180px;">
+      <img src="examples/ref4.png" alt="Image 4" style="height: 180px;">
     </td>
-    <!-- 生成结果 -->
     <td style="text-align: center; vertical-align: middle;">
       <img src="examples/ref_results/result2.gif" alt="GIF 2" style="width: 400px;">
     </td>
@@ -115,27 +109,23 @@ For inferencing examples, please refer to "infer.sh". You will get the following
 
   </tr>
   <tr>
-    <!-- 参考图像 -->
     <td style="text-align: center; vertical-align: middle;">
-      <img src="examples/ref5.png" alt="Image 5" style="height: 150px;">
-      <img src="examples/ref6.png" alt="Image 6" style="height: 150px;">
-      <img src="examples/ref7.png" alt="Image 7" style="height: 150px;">
+      <img src="examples/ref5.png" alt="Image 5" style="height: 180px;">
+      <img src="examples/ref6.png" alt="Image 6" style="height: 180px;">
+      <img src="examples/ref7.png" alt="Image 7" style="height: 180px;">
     </td>
-    <!-- 生成结果 -->
     <td style="text-align: center; vertical-align: middle;">
       <img src="examples/ref_results/result3.gif" alt="GIF 3" style="width: 400px;">
     </td>
   </tr>
 
   <tr>
-    <!-- 参考图像 -->
     <td style="text-align: center; vertical-align: middle;">
-      <img src="examples/ref8.png" alt="Image 8" style="height: 100px;">
-      <img src="examples/ref9.png" alt="Image 9" style="height: 100px;">
-      <img src="examples/ref10.png" alt="Image 10" style="height: 100px;">
-      <img src="examples/ref11.png" alt="Image 11" style="height: 100px;">
+      <img src="examples/ref8.png" alt="Image 8" style="height: 120px;">
+      <img src="examples/ref9.png" alt="Image 9" style="height: 120px;">
+      <img src="examples/ref10.png" alt="Image 10" style="height: 120px;">
+      <img src="examples/ref11.png" alt="Image 11" style="height: 120px;">
     </td>
-    <!-- 生成结果 -->
     <td style="text-align: center; vertical-align: middle;">
       <img src="examples/ref_results/result4.gif" alt="GIF 4" style="width: 400px;">
     </td>
