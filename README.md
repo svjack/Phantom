@@ -78,12 +78,12 @@ For inferencing examples, please refer to "infer.sh". You will get the following
 
 <table>
   <tr>
-    <td><img src="examples/ref_results/result1.gif" alt="GIF 1" width="200"></td>
-    <td><img src="examples/ref_results/result2.gif" alt="GIF 2" width="200"></td>
+    <td><img src="examples/ref_results/result1.gif" alt="GIF 1" width="400"></td>
+    <td><img src="examples/ref_results/result2.gif" alt="GIF 2" width="400"></td>
   </tr>
   <tr>
-    <td><img src="examples/ref_results/result3.gif" alt="GIF 3" width="200"></td>
-    <td><img src="examples/ref_results/result4.gif" alt="GIF 4" width="200"></td>
+    <td><img src="examples/ref_results/result3.gif" alt="GIF 3" width="400"></td>
+    <td><img src="examples/ref_results/result4.gif" alt="GIF 4" width="400"></td>
   </tr>
 </table>
 
