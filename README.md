@@ -92,8 +92,8 @@ For inferencing examples, please refer to "infer.sh". You will get the following
   <tr>
     <!-- 参考图像 -->
     <td style="text-align: center; vertical-align: middle;">
-      <img src="examples/ref1.png" alt="Image 1" style="width: 128px;">
-      <img src="examples/ref2.png" alt="Image 2" style="width: 100px;">
+      <img src="examples/ref1.png" alt="Image 1" style="width: 128px; margin: auto;">
+      <img src="examples/ref2.png" alt="Image 2" style="width: 100px; margin: auto;">
     </td>
     <!-- 生成结果 -->
     <td style="text-align: center; vertical-align: middle;">
