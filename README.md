@@ -18,7 +18,7 @@
 <p>
 
 ## 🔥 Latest News!
-* Apr 20, 2025: 👋 Phantom-Wan is coming! We adapted the Phantom framework into the [Wan2.1](https://github.com/Wan-Video/Wan2.1) video generation model. The inference codes and checkpoint have been released.
+* Apr 21, 2025: 👋 Phantom-Wan is coming! We adapted the Phantom framework into the [Wan2.1](https://github.com/Wan-Video/Wan2.1) video generation model. The inference codes and checkpoint have been released.
 
 ## 📑 Todo List
 - [x] Inference codes and Checkpoint of Phantom-Wan 1.3B 
@@ -51,7 +51,7 @@ huggingface-cli download Wan-AI/Wan2.1-T2V-1.3B --local-dir ./Wan2.1-T2V-1.3B
 ```
 Then download the Phantom-Wan-1.3B model:
 ``` sh
-huggingface-cli download xxx --local-dir ./Phantom-Wan-1.3B
+huggingface-cli download bytedance-research/Phantom --local-dir ./Phantom-Wan-1.3B
 ```
 
 ### Run Subject-to-Video Generation
