@@ -154,3 +154,6 @@ We would like to express our gratitude to the SEED team for their support. Speci
   year={2025}
 }
 ```
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=Phantom-video/Phantom&type=Date)](https://www.star-history.com/#Phantom-video/Phantom&Date)
