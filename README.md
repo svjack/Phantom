@@ -96,7 +96,7 @@ For inferencing examples, please refer to "infer.sh". You will get the following
       <img src="examples/ref2.png" alt="Image 2" style="width: 100px;">
     </td>
     <!-- 生成结果 -->
-    <td style="padding: 10px; border: 1px solid #ccc;">
+    <td style="text-align: center; vertical-align: middle;">
       <img src="examples/ref_results/result1.gif" alt="GIF 1" style="width: 400px;">
     </td>
   </tr>
@@ -108,7 +108,7 @@ For inferencing examples, please refer to "infer.sh". You will get the following
       <img src="examples/ref4.png" alt="Image 4" style="width: 115px;">
     </td>
     <!-- 生成结果 -->
-    <td style="padding: 10px; border: 1px solid #ccc;">
+    <td style="text-align: center; vertical-align: middle;">
       <img src="examples/ref_results/result2.gif" alt="GIF 2" style="width: 400px;">
     </td>
   </tr>
@@ -122,7 +122,7 @@ For inferencing examples, please refer to "infer.sh". You will get the following
       <img src="examples/ref7.png" alt="Image 7" style="width: 61px;">
     </td>
     <!-- 生成结果 -->
-    <td style="padding: 10px; border: 1px solid #ccc;">
+    <td style="text-align: center; vertical-align: middle;">
       <img src="examples/ref_results/result3.gif" alt="GIF 3" style="width: 400px;">
     </td>
   </tr>
@@ -136,7 +136,7 @@ For inferencing examples, please refer to "infer.sh". You will get the following
       <img src="examples/ref11.png" alt="Image 11" style="width: 85px;">
     </td>
     <!-- 生成结果 -->
-    <td style="padding: 10px; border: 1px solid #ccc;">
+    <td style="text-align: center; vertical-align: middle;">
       <img src="examples/ref_results/result4.gif" alt="GIF 4" style="width: 400px;">
     </td>
   </tr>
