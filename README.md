@@ -75,7 +75,7 @@ torchrun --nproc_per_node=8 generate.py --task s2v-1.3B --size 832*480 --ckpt_di
 > * To achieve the best generation results, we recommend that you describe the visual content of the reference image as accurately as possible when writing `--prompt`. For example, "examples/ref1.png" can be described as "a toy camera in yellow and red with blue buttons".
 > * When the generated video is unsatisfactory, the most straightforward solution is to try changing the `--base_seed` and modifying the description in the `--prompt`.
 
-For inferencing examples, please refer to "infer.sh". You will get the following generated results:
+For more inference examples, please refer to "infer.sh". You will get the following generated results:
 
 <table style="width: 100%; border-collapse: collapse; text-align: center; border: 1px solid #ccc;">
   <tr>
