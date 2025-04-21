@@ -121,10 +121,10 @@ For inferencing examples, please refer to "infer.sh". You will get the following
 
   <tr>
     <td style="text-align: center; vertical-align: middle;">
-      <img src="examples/ref8.png" alt="Image 8" style="height: 110px;">
-      <img src="examples/ref9.png" alt="Image 9" style="height: 110px;">
-      <img src="examples/ref10.png" alt="Image 10" style="height: 110px;">
-      <img src="examples/ref11.png" alt="Image 11" style="height: 110px;">
+      <img src="examples/ref8.png" alt="Image 8" style="height: 100px;">
+      <img src="examples/ref9.png" alt="Image 9" style="height: 100px;">
+      <img src="examples/ref10.png" alt="Image 10" style="height: 100px;">
+      <img src="examples/ref11.png" alt="Image 11" style="height: 100px;">
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <img src="examples/ref_results/result4.gif" alt="GIF 4" style="width: 400px;">
