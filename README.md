@@ -92,8 +92,8 @@ For inferencing examples, please refer to "infer.sh". You will get the following
   <tr>
     <!-- 参考图像 -->
     <td style="text-align: center; vertical-align: middle;">
-      <img src="examples/ref1.png" alt="Image 1" style="height: 200px;">
-      <img src="examples/ref2.png" alt="Image 2" style="height: 200px;">
+      <img src="examples/ref1.png" alt="Image 1" style="height: 150px;">
+      <img src="examples/ref2.png" alt="Image 2" style="height: 150px;">
     </td>
     <!-- 生成结果 -->
     <td style="text-align: center; vertical-align: middle;">
@@ -104,8 +104,8 @@ For inferencing examples, please refer to "infer.sh". You will get the following
   <tr>
     <!-- 参考图像 -->
     <td style="text-align: center; vertical-align: middle;">
-      <img src="examples/ref3.png" alt="Image 3" style="height: 200px;">
-      <img src="examples/ref4.png" alt="Image 4" style="height: 200px;">
+      <img src="examples/ref3.png" alt="Image 3" style="height: 150px;">
+      <img src="examples/ref4.png" alt="Image 4" style="height: 150px;">
     </td>
     <!-- 生成结果 -->
     <td style="text-align: center; vertical-align: middle;">
@@ -130,10 +130,10 @@ For inferencing examples, please refer to "infer.sh". You will get the following
   <tr>
     <!-- 参考图像 -->
     <td style="text-align: center; vertical-align: middle;">
-      <img src="examples/ref8.png" alt="Image 8" style="height: 150px;">
-      <img src="examples/ref9.png" alt="Image 9" style="height: 150px;">
-      <img src="examples/ref10.png" alt="Image 10" style="height: 150px;">
-      <img src="examples/ref11.png" alt="Image 11" style="height: 150px;">
+      <img src="examples/ref8.png" alt="Image 8" style="height: 100px;">
+      <img src="examples/ref9.png" alt="Image 9" style="height: 100px;">
+      <img src="examples/ref10.png" alt="Image 10" style="height: 100px;">
+      <img src="examples/ref11.png" alt="Image 11" style="height: 100px;">
     </td>
     <!-- 生成结果 -->
     <td style="text-align: center; vertical-align: middle;">
