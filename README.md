@@ -80,13 +80,13 @@ For inferencing examples, please refer to "infer.sh". You will get the following
 <table style="width: 100%; border-collapse: collapse; text-align: center; border: 1px solid #ccc;">
   <tr>
     <!-- 参考图像标题 -->
-    <td style="text-align: center; padding: 10px; border: 1px solid #ccc;">
+    <th style="text-align: center;">
       <strong>Reference Images</strong>
-    </td>
+    </th>
     <!-- 生成结果标题 -->
-    <td style="text-align: center; padding: 10px; border: 1px solid #ccc;">
+    <th style="text-align: center;">
       <strong>Generated Videos</strong>
-    </td>
+    </th>
   </tr>
 
   <tr>
