@@ -20,6 +20,7 @@
 ## 🔥 Latest News!
 * Apr 10, 2025: We have updated the full version of the Phantom paper, which now includes more detailed descriptions of the model architecture and dataset pipeline.
 * Apr 21, 2025: 👋 Phantom-Wan is coming! We adapted the Phantom framework into the [Wan2.1](https://github.com/Wan-Video/Wan2.1) video generation model. The inference codes and checkpoint have been released.
+* Apr 23, 2025: 😊 Thanks to [ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper/tree/dev) for adapting ComfyUI to Phantom-Wan-1.3B. Everyone is welcome to use it !
 
 ## 📑 Todo List
 - [x] Inference codes and Checkpoint of Phantom-Wan 1.3B 
