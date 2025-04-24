@@ -13,6 +13,7 @@ conda activate system
 
 git clone https://github.com/Phantom-video/Phantom.git
 cd Phantom
+pip install torch torchvision
 pip install -r requirements.txt
 pip install huggingface_hub
 huggingface-cli download Wan-AI/Wan2.1-T2V-1.3B --local-dir ./Wan2.1-T2V-1.3B
