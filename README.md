@@ -26,7 +26,25 @@ python generate.py --task s2v-1.3B --size "832*480" --ckpt_dir ./Wan2.1-T2V-1.3B
 python generate.py --task s2v-1.3B --size "832*480" --ckpt_dir ./Wan2.1-T2V-1.3B --phantom_ckpt ./Phantom-Wan-1.3B/Phantom-Wan-1.3B.pth  --ref_image "xiang_image.jpg,璃月.jpg" --prompt "一个甜美的大男孩走在古代中国的夜景中。" --base_seed 42
 
 ```
+OR
+```bash
+git clone https://github.com/Phantom-video/Phantom.git
+cd Phantom
+#conda install python=3.10
+#pip install torch torchvision
+#pip install flash_attn==2.3.4 --no-build-isolation
+pip install -r requirements.txt
+pip install huggingface_hub
 
+https://github.com/Dao-AILab/flash-attention/releases
+pip install https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.4.post1/flash_attn-2.7.4.post1+cu12torch2.2cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
+
+pip uninstall torch torchvision
+pip install "torch==2.2.2" torchvision
+
+huggingface-cli download Wan-AI/Wan2.1-T2V-1.3B --local-dir ./Wan2.1-T2V-1.3B
+huggingface-cli download bytedance-research/Phantom --local-dir ./Phantom-Wan-1.3B
+```
 
 > [**Phantom: Subject-Consistent Video Generation via Cross-Modal Alignment**](https://arxiv.org/abs/2502.11079)<br>
 > [Lijie Liu](https://liulj13.github.io/)<sup> * </sup>, [Tianxiang Ma](https://tianxiangma.github.io/)<sup> * </sup>, [Bingchuan Li](https://scholar.google.com/citations?user=ac5Se6QAAAAJ)<sup> * &dagger;</sup>, [Zhuowei Chen](https://scholar.google.com/citations?user=ow1jGJkAAAAJ)<sup> * </sup>, [Jiawei Liu](https://scholar.google.com/citations?user=X21Fz-EAAAAJ), Gen Li, Siyu Zhou, [Qian He](https://scholar.google.com/citations?user=9rWWCgUAAAAJ), Xinglong Wu
